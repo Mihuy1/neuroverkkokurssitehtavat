@@ -198,4 +198,7 @@ fabric.properties
 .history
 .ionide
 
+# Ignore models folder
+models/
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,pycharm,images
