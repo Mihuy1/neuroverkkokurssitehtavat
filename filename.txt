@@ -1,0 +1,400 @@
+Pair 1:
+English: Tom doesn't like Boston.
+Finnish: [start] Tomi ei pidä Bostonista. [end]
+
+Pair 2:
+English: I love Tom and I'm pretty sure that he loves me.
+Finnish: [start] Rakastan Tomia ja olen melko varma, että hän rakastaa minua. [end]
+
+Pair 3:
+English: I don't trust beautiful women.
+Finnish: [start] En luota kauniisiin naisiin. [end]
+
+Pair 4:
+English: It's up to you.
+Finnish: [start] Se on sinun päätettävissäsi. [end]
+
+Pair 5:
+English: Tom went into the kitchen.
+Finnish: [start] Tomi meni keittiöön. [end]
+
+Pair 6:
+English: I received a letter from my brother.
+Finnish: [start] Sain kirjeen veljeltäni. [end]
+
+Pair 7:
+English: I am going to major in French.
+Finnish: [start] Aion opiskella ranskaa pääaineenani. [end]
+
+Pair 8:
+English: You need to take these pills.
+Finnish: [start] Sinun täytyy ottaa nämä pillerit. [end]
+
+Pair 9:
+English: That's such a cool idea.
+Finnish: [start] Se on tosi siisti idea. [end]
+
+Pair 10:
+English: She is aggressive.
+Finnish: [start] Hän on aggressiivinen. [end]
+
+Pair 11:
+English: Tom stayed here.
+Finnish: [start] Tom jäi tänne. [end]
+
+Pair 12:
+English: She made him a new suit.
+Finnish: [start] Hän teki uuden puvun hänelle. [end]
+
+Pair 13:
+English: I've decided to become a writer.
+Finnish: [start] Olen päättänyt alkaa kirjailijaksi. [end]
+
+Pair 14:
+English: Would you mind closing the door behind you?
+Finnish: [start] Viitsisitkö sulkea oven perässäsi? [end]
+
+Pair 15:
+English: Let's wait here.
+Finnish: [start] Odotetaan täällä. [end]
+
+Pair 16:
+English: Tom looked miserable.
+Finnish: [start] Tomi näytti surkealta. [end]
+
+Pair 17:
+English: Hide.
+Finnish: [start] Piiloutukaa. [end]
+
+Pair 18:
+English: She was scared to death of her husband.
+Finnish: [start] Hän pelkäsi kuollakseen aviomiestään. [end]
+
+Pair 19:
+English: Why is it so important?
+Finnish: [start] Miksi se on niin tärkeää? [end]
+
+Pair 20:
+English: What's the problem here?
+Finnish: [start] Mikä tässä on ongelma? [end]
+
+Pair 21:
+English: A flight attendant was rescued from the wreckage of the passenger plane.
+Finnish: [start] Lentoemäntä pelastettiin matkustajakoneen hylystä. [end]
+
+Pair 22:
+English: What do women really want?
+Finnish: [start] Mitä naiset oikeasti tahtovat? [end]
+
+Pair 23:
+English: We have to get back to work.
+Finnish: [start] Meidän täytyy palata sorvin ääreen. [end]
+
+Pair 24:
+English: I was on time for dinner.
+Finnish: [start] Tulin juuri ajoissa illalliselle. [end]
+
+Pair 25:
+English: It was a stroke of genius.
+Finnish: [start] Mikä älynväläys. [end]
+
+Pair 26:
+English: I have breakfast at seven.
+Finnish: [start] Minä syön aamupalaa seitsemältä. [end]
+
+Pair 27:
+English: How many people are at this party?
+Finnish: [start] Kuinka monta ihmistä on näissä juhlissa? [end]
+
+Pair 28:
+English: Please help yourself to some more cake.
+Finnish: [start] Ota vähän lisää kakkua, jos maistuu. [end]
+
+Pair 29:
+English: Who invented bifocals?
+Finnish: [start] Ketkä keksivät kaksiteholasit? [end]
+
+Pair 30:
+English: I thought Tom would have found Mary by now.
+Finnish: [start] Luulin, että Tom olisi jo löytänyt Marin tähän mennessä. [end]
+
+Pair 31:
+English: The explosion shook the whole building.
+Finnish: [start] Räjähdys vavisutti koko rakennusta. [end]
+
+Pair 32:
+English: It's the last one.
+Finnish: [start] Se on viimeinen. [end]
+
+Pair 33:
+English: It's a short walk.
+Finnish: [start] Sinne on lyhyt matka kävellen. [end]
+
+Pair 34:
+English: I have complete faith in his abilities.
+Finnish: [start] Luotan täysin hänen kykyihinsä. [end]
+
+Pair 35:
+English: I always got good grades in French.
+Finnish: [start] Sain aina hyviä numeroita ranskasta. [end]
+
+Pair 36:
+English: First cousins are too close for marriage.
+Finnish: [start] Ensimmäiset serkukset ovat liian läheisiä mennäkseen naimisiin. [end]
+
+Pair 37:
+English: I have bad depth perception.
+Finnish: [start] Minulla on heikko syvyysnäkö. [end]
+
+Pair 38:
+English: Have you told anyone where our hideout is?
+Finnish: [start] Oletko kertonut kenellekään missä piilopaikka on? [end]
+
+Pair 39:
+English: I don't understand French at all.
+Finnish: [start] En ymmärrä ranskaa yhtään. [end]
+
+Pair 40:
+English: Tom says he's studying French.
+Finnish: [start] Tomi sanoo opiskelevansa ranskaa. [end]
+
+Pair 41:
+English: I blew a gasket.
+Finnish: [start] Poltin päreeni. [end]
+
+Pair 42:
+English: Would you please fill out this form?
+Finnish: [start] Täyttäisittekö tämän lomakkeen? [end]
+
+Pair 43:
+English: We've got to stay alert.
+Finnish: [start] Meidän pitää pysyä valppaina. [end]
+
+Pair 44:
+English: He had one of his socks on inside out.
+Finnish: [start] Hänellä oli toinen sukistaan nurin päin. [end]
+
+Pair 45:
+English: Tom has a slight cold.
+Finnish: [start] Tomilla on lievä flunssa. [end]
+
+Pair 46:
+English: It's well done.
+Finnish: [start] Se on hyvin tehty. [end]
+
+Pair 47:
+English: I feel safe and loved when I'm with you.
+Finnish: [start] Tunnen olevani turvassa ja rakastettu kun olen kanssasi [end]
+
+Pair 48:
+English: I'll be very frank with you.
+Finnish: [start] Olen hyvin suora kanssasi. [end]
+
+Pair 49:
+English: Leave us.
+Finnish: [start] Jätä meidät. [end]
+
+Pair 50:
+English: Tom and Mary were fighting.
+Finnish: [start] Tomi ja Mari riitelivät. [end]
+
+Pair 51:
+English: I have a fever.
+Finnish: [start] Minulla on kuume. [end]
+
+Pair 52:
+English: I didn't have to help you, but I did.
+Finnish: [start] Ei minun tarvinnut auttaa sinua mutta tein sen silti. [end]
+
+Pair 53:
+English: Can I borrow your pen?
+Finnish: [start] Voinko lainata kynääsi? [end]
+
+Pair 54:
+English: He nodded in response to my question.
+Finnish: [start] Hän nyökkäsi vastauksena kysymykseeni. [end]
+
+Pair 55:
+English: I'm going to Hawaii by ship.
+Finnish: [start] Menen Hawaille laivalla. [end]
+
+Pair 56:
+English: Tom wanted to find out.
+Finnish: [start] Tom halusi saada selville. [end]
+
+Pair 57:
+English: Tom is in the kitchen with Mary.
+Finnish: [start] Tom on keittiössä Maryn kanssa. [end]
+
+Pair 58:
+English: I was there as well.
+Finnish: [start] Minäkin olin siellä. [end]
+
+Pair 59:
+English: He made fun of my accent.
+Finnish: [start] Hän pilkkasi korostustani. [end]
+
+Pair 60:
+English: That's a fairly reasonable price.
+Finnish: [start] Se on melko kohtuullinen hinta. [end]
+
+Pair 61:
+English: He is madly jealous of his woman.
+Finnish: [start] Hän on hullun mustasukkainen naisestaan. [end]
+
+Pair 62:
+English: I go to school by subway.
+Finnish: [start] Menen kouluun metrolla. [end]
+
+Pair 63:
+English: She likes the smell of pine trees.
+Finnish: [start] Hän pitää mäntyjen tuoksusta. [end]
+
+Pair 64:
+English: Can you solve the problem by yourself?
+Finnish: [start] Osaatko ratkaista tämän harjoituksen itseksi? [end]
+
+Pair 65:
+English: We were fortunate.
+Finnish: [start] Olimme onnekkaita. [end]
+
+Pair 66:
+English: He had the table to himself.
+Finnish: [start] Hänellä oli pöytävaraus. [end]
+
+Pair 67:
+English: Tom appears to be a bit worried.
+Finnish: [start] Tom vaikuttaa olevan vähän huolissaan. [end]
+
+Pair 68:
+English: It is very cold today.
+Finnish: [start] Tänään on todella kylmä. [end]
+
+Pair 69:
+English: I often ski.
+Finnish: [start] Laskettelen usein. [end]
+
+Pair 70:
+English: Tom wants to meet you.
+Finnish: [start] Tom tahtoo tavata sinut. [end]
+
+Pair 71:
+English: Do these things happen often here?
+Finnish: [start] Tapahtuuko näitä asioita täällä usein? [end]
+
+Pair 72:
+English: I like dragon fruit.
+Finnish: [start] Tykkään pitahayoista. [end]
+
+Pair 73:
+English: They don't want Tom back.
+Finnish: [start] He eivät halua Tomia takaisin. [end]
+
+Pair 74:
+English: Is this mine?
+Finnish: [start] Onko tämä minun? [end]
+
+Pair 75:
+English: Can I use a credit card?
+Finnish: [start] Käykö teillä luottokortti? [end]
+
+Pair 76:
+English: I don't understand that at all.
+Finnish: [start] En ymmärrä sitä ollenkaan. [end]
+
+Pair 77:
+English: Tom sang in the church choir.
+Finnish: [start] Tuomas lauloi siinä kirkkokuorossa. [end]
+
+Pair 78:
+English: You are too young to travel alone.
+Finnish: [start] Sinä olet liian nuori matkustamaan yksin. [end]
+
+Pair 79:
+English: Uranus is a planet.
+Finnish: [start] Uranus on planeetta. [end]
+
+Pair 80:
+English: It's quite complicated.
+Finnish: [start] Se on melko monimutkainen. [end]
+
+Pair 81:
+English: It'll be ready soon.
+Finnish: [start] Se on pian valmis. [end]
+
+Pair 82:
+English: Someone has to pay.
+Finnish: [start] Jonkun pitää maksaa. [end]
+
+Pair 83:
+English: Tom and Mary are blood relatives.
+Finnish: [start] Tom ja Mary ovat verisukulaisia. [end]
+
+Pair 84:
+English: My parents are divorced.
+Finnish: [start] Vanhempani ovat eronneet. [end]
+
+Pair 85:
+English: Do you really want to learn another language?
+Finnish: [start] Haluatko todella oppia toisen kielen? [end]
+
+Pair 86:
+English: Their flag is blue and gold.
+Finnish: [start] Heidän lipussaan on sinistä ja kultaa. [end]
+
+Pair 87:
+English: We can't afford mistakes.
+Finnish: [start] Meillä ei ole varaa virheisiin. [end]
+
+Pair 88:
+English: I hate this game.
+Finnish: [start] Inhoan tätä peliä. [end]
+
+Pair 89:
+English: My knapsack is very heavy.
+Finnish: [start] Mun reppu on tosi raskas. [end]
+
+Pair 90:
+English: It's a bad idea.
+Finnish: [start] Se on huono idea. [end]
+
+Pair 91:
+English: If you do that, you're going to look pretty stupid.
+Finnish: [start] Jos teet noin, niin näytät melko typerältä. [end]
+
+Pair 92:
+English: What year were you born?
+Finnish: [start] Minä vuonna sinä synnyit? [end]
+
+Pair 93:
+English: I'll tell you what I know about the situation.
+Finnish: [start] Kerron sinulle, mitä tiedän tilanteesta. [end]
+
+Pair 94:
+English: Does Tom have any brothers?
+Finnish: [start] Onko Tomilla veljiä? [end]
+
+Pair 95:
+English: What do you call this bird in English?
+Finnish: [start] Miksi tätä lintua sanotaan englanniksi? [end]
+
+Pair 96:
+English: I haven't taken a shower in three days.
+Finnish: [start] En ole käynyt suihkussa kolmeen päivään. [end]
+
+Pair 97:
+English: Are you ready to start?
+Finnish: [start] Oletko sinä valmis aloittamaan? [end]
+
+Pair 98:
+English: About how much will it cost to get to the airport from here?
+Finnish: [start] Paljonko maksaa suunnilleen täältä lentokentälle? [end]
+
+Pair 99:
+English: I don't like doctors.
+Finnish: [start] En tykkää lääkäreistä. [end]
+
+Pair 100:
+English: Venus doesn’t have any moons.
+Finnish: [start] Venuksella ei ole yhtäkään kuuta. [end]
+
